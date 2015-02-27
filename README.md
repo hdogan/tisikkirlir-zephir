@@ -27,6 +27,7 @@ Son olarak eklentiyi yüklemek için `php.ini` dosyanıza `extension=tisikkirlir
 ## Kullanımı
 
 ```php
+<?php
 echo Tisikkirlir\Tisikkirlir::tsk("Bi Star ATsana Canısı");
 # "Bi Stir İTsini Cinisi"
 ```
