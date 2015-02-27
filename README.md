@@ -6,6 +6,8 @@
 
     $ git clone https://github.com/hdogan/tisikkirlir.git
 
+Kurulum için Zephir kullanmanız önerilir. Zephir kurmak için https://github.com/phalcon/zephir adresine bakınız.
+
 Zephir ile
 
     $ zephir build
