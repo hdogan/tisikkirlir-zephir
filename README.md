@@ -40,4 +40,4 @@ echo Tisikkirlir\Tisikkirlir::tsk("Bi Star ATsana Canısı");
 4. Dalı itele (`git push origin yeni-ozellik`)
 5. Yeni bir koyma isteği oluştur
 
-*`Bu en son kısmı Google Translate ile çevirmedim. Çok uykum vardı, birden öyle çeviriverdim :sleepy:`*
+*`Bu en son kısmı Google Translate ile çevirmedim. Çok uykum vardı, birden öyle çeviriverdim.`* :sleepy:
