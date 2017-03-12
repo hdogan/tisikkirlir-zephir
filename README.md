@@ -1,5 +1,7 @@
 # Tisikkirlir
 
+UYARI: Güncel Zephir sürümü ile çalışma garantisi yok.
+
 ![cat](https://dl.dropbox.com/s/x2otko6ropilnb0/Birikindi-sizin-i%C3%A7in-sivisiyim-kilisi.jpg)
 
 ## Kurulum
